@@ -1,0 +1,14 @@
+
+
+
+
+
+
+
+Actualizar  Ngnix
+
+Actualizo ubuntu
+
+
+
+
