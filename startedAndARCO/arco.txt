@@ -1,0 +1,12 @@
+
+ARCO Update number
+
+rake 'arco_request:phone_number[55ca6bb24e1a934fa600071e,5529579719,5578771278]'
+
+Primer salida:
+rake 'arco_request:phone_number[55ca6bb24e1a934fa600071e,5529579719,5578771278]'
+Usuario: 55ca6bb24e1a934fa600071e, número anterior:5529579719, número nuevo: 5578771278
+Número telefonico actualizado.
+
+
+
